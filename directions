@@ -1,0 +1,10 @@
+CROUTON FILE LINKED - NEED TO DOWNLOAD THE FILE FIRST THEN PROCEED WITH THE FOLLOWING
+  
+  ctrl + alt + t
+  shell
+  sudo install -Dt /usr/local/nin -m 755 ~/Downloads/crouton
+  sudo crouton
+  sudo crouton -n kali -r kali-rolling -t core,xiwi,xfce,extension
+  sudo enter-chroot -n kali
+  sudo apt install dbus-x11
+  startxfce4  
