@@ -1,4 +1,4 @@
 ctrl + alt + t
 shell
-sudo enter-chrool -n kali
+sudo enter-chroot -n kali
 startxfce4
